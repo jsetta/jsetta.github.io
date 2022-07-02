@@ -177,11 +177,11 @@ header p {
   padding-bottom: 150px;
 }
 
-.section-2 {
+.section-3 {
   color: white;
-  background: url("../img/section2-bg.jpg") no-repeat center center scroll;
+  background: url("../img/section3-bg.jpg") no-repeat top;
   background-color: black;
-  background-size: cover;
+  background-size: contain;
 }
 
 #map {
