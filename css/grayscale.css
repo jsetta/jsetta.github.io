@@ -260,3 +260,7 @@ footer p {
 img::selection {
   background: transparent;
 }
+
+p img {
+  width: 100%;
+}
